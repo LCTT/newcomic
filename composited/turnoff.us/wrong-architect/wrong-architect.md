@@ -11,9 +11,9 @@ via:
 - http://turnoff.us/geek/wrong-architect/
 
 作者：[Daniel Stori][a]
-译者：[Besony](https://github.com/Besony)
+译者：[Besony](https://github.com/bestony)
 校对：[wxy](https://github.com/wxy)
-合成：[合成者ID](https://github.com/合成者ID)
+合成：[Bestony](https://github.com/bestony)
 点评：[Besony](https://github.com/Besony)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
