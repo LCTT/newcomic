@@ -19,8 +19,8 @@ via:
 
 作者：[Daniel Stori][a]
 译者：[ItsLucas](https://github.com/ItsLucas)
-校对：[校对者ID](https://github.com/校对者ID)
-合成：[合成者ID](https://github.com/合成者ID)
+校对：[Bestony](https://github.com/bestony)
+合成：[Bestony](https://github.com/bestony)
 点评：[ItsLucas](https://github.com/ItsLucas)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
