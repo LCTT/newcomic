@@ -23,9 +23,9 @@ TCP 协议规定，在传输数据之前，要进行三次“握手”，来保�
 via: https://turnoff.us/geek/tcp-buddies/
 
 作者：[Daniel Stori][a]
-译者：[Bestony](https://github.com/Bestony)
+译者：[Bestony](https://github.com/bestony)
 校对：[wxy](https://github.com/wxy)
-合成：[合成者ID](https://github.com/合成者ID)
+合成：[Bestony](https://github.com/bestony)
 点评：[Bestony](https://github.com/Bestony)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
