@@ -7,6 +7,9 @@ AI 监管
 - 滚！
 - 这是你最后的机会！
 
+台上某疑似“钢铁侠”正在宣讲“AI 监管”，遭到了群嘲——怒极之下，却暴露出了其原本是一个“AI”。
+
+---
 via:
  - http://turnoff.us/geek/ai-regulation
 
