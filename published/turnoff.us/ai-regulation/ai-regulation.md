@@ -1,7 +1,7 @@
 AI 监管
 ===============
 
-![AI Regulation](http://turnoff.us/image/en/ai-regulation.png)
+![AI Regulation](https://github.com/LCTT/newcomic/raw/master/published/turnoff.us/ai-regulation/ai-regulation.png)
 
 - AI 需要被监管起来！
 - 滚！
@@ -12,9 +12,7 @@ via:
 
 作者：[Daniel Stori][a]
 译者：[wxy](https://github.com/wxy)
-校对：[校对者ID](https://github.com/校对者ID)
 合成：[Bestony](https://github.com/Bestony)
-点评：[点评ID](https://github.com/点评者ID)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
