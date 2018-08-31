@@ -1,7 +1,7 @@
-Functional World
+极客漫画：函数式编程的世界
 ===============
 
-![Functional World](http://turnoff.us/image/en/functional-world.png)
+![Functional World](https://github.com/LCTT/newcomic/raw/master/published/turnoff.us/functional-world/functional-world.png)
 
 - 不久之后，函数式编程赢得了编程范式之争...
 - ... 不可变成为了万物的规律。
