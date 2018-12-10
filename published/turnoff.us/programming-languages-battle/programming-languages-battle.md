@@ -1,7 +1,7 @@
 编程语言之战
 ===============
 
-![Battle of Programming Languages](https://github.com/LCTT/newcomic/blob/master/published/turnoff.us/programming-languages-battle/programming-languages-battle.png)
+![Battle of Programming Languages](https://github.com/LCTT/newcomic/raw/master/published/turnoff.us/programming-languages-battle/programming-languages-battle.png)
 
 - 在很多年以前...
 - 干你*的，COBOL! 我要杀掉你!
