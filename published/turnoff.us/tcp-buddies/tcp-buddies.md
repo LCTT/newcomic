@@ -1,7 +1,7 @@
 极客漫画：TCP 兄弟
 ===============
 
-![TCP Buddies](https://turnoff.us/image/en/tcp.png)
+![TCP Buddies](./tcp-buddies.png)
 
 - 我在这里…
 - …打造我自己的…
@@ -18,15 +18,15 @@
 
 TCP 协议规定，在传输数据之前，要进行三次“握手”，来保证数据传输的可靠性。上面这幅漫画就展示了这样的内容。
 
-如果你有兴趣查看更多信息，可以参看 https://zh.wikipedia.org/wiki/传输控制协议
+如果你有兴趣查看更多信息，可以参看 https://zh.wikipedia.org/wiki/传输控制协议 。
 
+---
 via: https://turnoff.us/geek/tcp-buddies/
 
 作者：[Daniel Stori][a]
 译者：[Bestony](https://github.com/bestony)
 校对：[wxy](https://github.com/wxy)
-合成：[Bestony](https://github.com/bestony)
-点评：[Bestony](https://github.com/Bestony)
+合成&点评：[Bestony](https://github.com/bestony)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
