@@ -3,7 +3,7 @@
 
 ### Linux 版 SQL Server （一）
 
-![sql-server-on-linux](https://github.com/LCTT/comic/raw/master/turnoff.us/sql-server-on-linux-series/sql-server-on-linux.png)
+![sql-server-on-linux](./sql-server-on-linux.png)
 
 
 在 Linux 内核之中，大家正在静静的等待进程的创建。每个创建的进程会被分配一个进程 ID （PID）。
@@ -16,7 +16,7 @@
 
 ### Linux 版 SQL Server （二）
 
-![sql-server-on-linux-2](https://github.com/LCTT/comic/raw/master/turnoff.us/sql-server-on-linux-series/sql-server-on-linux-2.png)
+![sql-server-on-linux-2](./sql-server-on-linux-2.png)
 
 Clark，嗯，就是那个贪婪的 Linux 版的 SQL Server，它要把 Linux 服务器撑破了，内核已经陷入崩溃了，急切需要重启。
 

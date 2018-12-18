@@ -3,7 +3,7 @@
 
 ### 气人的软件 1
 
-![annoying-software 1](https://github.com/LCTT/comic/raw/master/turnoff.us/annoying-software-series/annoying-software.png)
+![annoying-software 1](./annoying-software.png)
 
 软件：
 
@@ -17,7 +17,7 @@
 
 ### 气人的软件 2
 
-![annoying-software 2](https://github.com/LCTT/comic/raw/master/turnoff.us/annoying-software-series/annoying-software-2.png)
+![annoying-software 2](./annoying-software-2.png)
 
 软件：
 
@@ -29,13 +29,13 @@
 
 ### 气人的软件 3
 
-![annoying-software 3](https://github.com/LCTT/comic/raw/master/turnoff.us/annoying-software-series/annoying-software-3.png)
+![annoying-software 3](./annoying-software-3.png)
 
 自作聪明的软件，屡屡让人发疯！
 
 ### 气人的软件 4
 
-![annoying-software 4](https://github.com/LCTT/comic/raw/master/turnoff.us/annoying-software-series/annoying-software-4.png)
+![annoying-software 4](./annoying-software-4.png)
 
 我觉得现在都用 LCD 显示器有一个好处就是，你可以一拳打破而不用担心骨折（流血那种事情不在我们的考虑之中~）。
 

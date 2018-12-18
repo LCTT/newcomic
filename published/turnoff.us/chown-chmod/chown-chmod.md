@@ -8,7 +8,7 @@
 `chmod` ：Linux 中用来改变某个文件的访问模式的命令，如漫画中所示，`chmod 777` 会将“大门”敞开，谁都可以进出了。
 
 
-![chown - chmod](http://turnoff.us/image/en/chown-chmod.png)
+![chown - chmod](./chown-chmod.png)
 
 via: http://turnoff.us/geek/chown-chmod/
 

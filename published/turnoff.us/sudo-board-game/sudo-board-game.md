@@ -1,7 +1,7 @@
 来下棋：sudo ！
 =========
 
-![sudo board game](https://github.com/LCTT/comic/raw/master/turnoff.us/sudo-board-game/sudo-board-game.png)
+![sudo board game](./sudo-board-game.png)
 
 今天为大家带来一款棋盘游戏 **Sudo** ——没错，就是叫 `sudo` 。其得名于一款名为 [Ludo][1] （印度马棋）的一款棋盘游戏，它是飞行棋的前身。规则与飞行棋大体相同。
 

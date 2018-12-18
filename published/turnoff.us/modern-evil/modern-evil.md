@@ -1,7 +1,7 @@
 极客漫画：现代的邪恶——不许 Ctrl-C
 ===
 
-![The Modern Evil](https://github.com/LCTT/comic/raw/master/turnoff.us/modern-evil/modern-evil.png)
+![The Modern Evil](./modern-evil.png)
 
 - 现代的邪恶
 - 自从一开始，邪恶就存在于世界...

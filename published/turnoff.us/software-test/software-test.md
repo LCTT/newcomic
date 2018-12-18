@@ -1,7 +1,7 @@
 极客漫画：软件测试
 ===
 
-![Software Testing](https://github.com/LCTT/comic/raw/master/turnoff.us/software-test/test.png)
+![Software Testing](./software-test.png)
 
 - 当开发者测试时。
 - 当质量监测团队测试时。

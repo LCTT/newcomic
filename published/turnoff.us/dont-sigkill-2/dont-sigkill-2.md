@@ -1,7 +1,7 @@
 极客漫画：没特别的理由，别用 SIGKILL
 ===============
 
-![Adopt a good cause, DON'T SIGKILL](http://turnoff.us/image/en/dont-sigkill-2.png)
+![Adopt a good cause, DON'T SIGKILL](./dont-sigkill-2.png)
 
 - DON'T SIGKILL 
 - USE SIGTERM

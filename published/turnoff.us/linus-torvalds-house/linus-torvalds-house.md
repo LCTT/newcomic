@@ -1,7 +1,7 @@
 极客漫画：Linus Torvald 的家
 ===============
 
-![Linus Torvald's House](https://github.com/LCTT/comic/raw/master/turnoff.us/linus-torvalds-house/linus-torvalds-house.png)
+![Linus Torvald's House](./linus-torvalds-house.png)
 
 - 据说，Linus Torvald 的家是这样的……
 

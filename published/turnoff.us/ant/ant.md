@@ -1,7 +1,7 @@
 蚁族：我们用“人”来构建软件
 ===============
 
-![Coding From Anthill](https://github.com/LCTT/comic/raw/master/turnoff.us/ant/ant.png)
+![Coding From Anthill](./ant.png)
 
 - 某时，在某个蚁丘里面……
 - 嗨，哥们，你在用什么做构建？

@@ -1,7 +1,7 @@
 极客漫画：Web 服务器中的生活
 ===============
 
-![Life in a Web Server](https://github.com/LCTT/comic/raw/master/turnoff.us/life-in-a-web-server/life-in-a-web-server.png)
+![Life in a Web Server](./life-in-a-web-server.png)
 
 - 嗨，Coy，幸好你还没下班！
 - 你能帮我处理这个请求吗？

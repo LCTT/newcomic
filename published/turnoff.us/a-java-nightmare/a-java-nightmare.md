@@ -1,7 +1,7 @@
 极客漫画： 一场 Java 惊魂之旅
 ===============
 
-![A Java Nightmare](https://github.com/LCTT/comic/raw/master/turnoff.us/a-java-nightmare/a-java-nightmare.png)
+![A Java Nightmare](./a-java-nightmare.png)
 
 - 上周末我决定带我儿子去迪士尼乐园，但是好像有什么不对……
 - 爸爸，公园变样啦！

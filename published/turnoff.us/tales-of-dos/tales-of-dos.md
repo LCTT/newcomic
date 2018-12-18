@@ -1,7 +1,7 @@
 DOS 时代
 =======
 
-![Tales of DOS](https://github.com/LCTT/comic/raw/master/turnoff.us/tales-of-dos/dos.png)
+![Tales of DOS](./tales-of-dos.png)
 
 - DOS 时代
 - “曾经，我们没有 Windows、Linux 和 OSX，我们只有 DOS。”

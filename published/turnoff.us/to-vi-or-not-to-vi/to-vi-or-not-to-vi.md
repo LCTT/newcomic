@@ -5,7 +5,7 @@ LCTT/comic 组成立之前，已有几篇 turnoff.us 漫画发布于 Linux.中�
 
 那么，本期是 GHLandy 给大家带来的 turnoff.us 上 “Vi 还是不 Vi，这是个问题 (to vi or not to vi)” 的汉化版漫画。如下：
 
-![to-vi-or-not-to-vi](https://github.com/LCTT/comic/raw/master/turnoff.us/to-vi-or-not-to-vi/to-vi-or-not-to-vi.png)
+![to-vi-or-not-to-vi](./to-vi-or-not-to-vi.png)
 
 上图展示了一个小伙子在有人注视自己工作的时候，使用 Vi 来编辑配置文件，装了一波十三。然后，在人离开后有赶紧拿起趁手的 Sublime 来使用。可能这幅漫画也是很多人的真实写照吧。
 

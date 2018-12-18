@@ -5,7 +5,7 @@ PHP 有什么优点吗？
 
 有，请看这幅漫画：
 
-![A Comic About PHP Good Parts](http://github.com/LCTT/comic/raw/master/turnoff.us/php-good-parts/php-good-parts.png)
+![A Comic About PHP Good Parts](./php-good-parts.png)
 
 ……
 

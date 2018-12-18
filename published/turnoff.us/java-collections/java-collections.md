@@ -1,7 +1,7 @@
 鸭子爸爸生活中的 Java 集合
 =====
 
-![Java Collections in Duck Life](https://github.com/LCTT/comic/raw/master/turnoff.us/java-collections/java-collections.png)
+![Java Collections in Duck Life](./java-collections.png)
 
 - 有时一个队列就能搞定 ...
 - 嘎嘎 入列！

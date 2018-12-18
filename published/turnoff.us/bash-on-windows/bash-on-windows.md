@@ -1,7 +1,7 @@
 极客漫画：Bash on Windows
 ===============
 
-![Bash on Windows](https://github.com/LCTT/comic/raw/master/turnoff.us/bash-on-windows/bash-on-windows.png)
+![Bash on Windows](./bash-on-windows.png)
 
 - 当我还是个小孩子的时候，每当我不吃饭妈妈就会在食物上面放个樱桃…
 - …然后我就吃了。

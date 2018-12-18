@@ -1,7 +1,7 @@
 极客漫画：最后一个问题
 ===============
 
-![One Last Question](https://github.com/LCTT/comic/raw/master/turnoff.us/one-last-question/one-last-question.png)
+![One Last Question](./one-last-question.png)
 
 - 很高兴，我们终于达成了保证世界和平的共识。
 - 我也很高兴，但是我还有最后一个问题。你怎么查看你的进程？倒数三个数之后咱俩一起说。
