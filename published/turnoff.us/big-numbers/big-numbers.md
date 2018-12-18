@@ -1,7 +1,7 @@
 极客漫画：最大之数
 ===============
 
-![Big Numbers](https://github.com/LCTT/comic/raw/master/turnoff.us/big-numbers/big-numbers.png)
+![Big Numbers](./big-numbers.png)
 
 - 喏，这里是在天上记录人类最大之数的地方。
 	- 人类之最

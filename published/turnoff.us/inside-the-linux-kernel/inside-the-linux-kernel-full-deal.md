@@ -1,7 +1,7 @@
 漫画赏析：Linux 内核到底长啥样
 =====================
 
-![inside the linux kernel](https://github.com/LCTT/comic/raw/master/turnoff.us/inside-the-linux-kernel/inside-the-linux-kernel-full-deal.png)
+![inside the linux kernel](./inside-the-linux-kernel-full-deal.png)
 
 今天，我来为大家解读一幅来自 TurnOff.us 的漫画 “InSide The Linux Kernel” 。 TurnOff.us 是一个极客漫画网站，作者Daniel Stori 画了一些非常有趣的关于编程语言、Web、云计算、Linux 相关的漫画。今天解读的便是其中的一篇。
 

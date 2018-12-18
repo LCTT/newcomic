@@ -1,7 +1,7 @@
 Bash 的历史
 ===
 
-![bash_history](https://github.com/LCTT/comic/raw/master/turnoff.us/bash_history/bash_history.png)
+![bash_history](./bash_history.png)
 
 在 Linux 中，`.bash_history` 原本的功能为存储在 bash 下执行过的命令历史，在这里，引申为 bash 的历史。所以在展示 `.bash_history` 返回了下面的摘自维基百科的内容。
 

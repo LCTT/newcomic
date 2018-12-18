@@ -1,7 +1,7 @@
 AI 监管
 ===============
 
-![AI Regulation](https://github.com/LCTT/newcomic/raw/master/published/turnoff.us/ai-regulation/ai-regulation.png)
+![AI Regulation](./ai-regulation.png)
 
 - AI 需要被监管起来！
 - 滚！

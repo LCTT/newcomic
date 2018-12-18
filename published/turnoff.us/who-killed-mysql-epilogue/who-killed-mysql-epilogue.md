@@ -1,7 +1,7 @@
 谁杀死了 MySQL? - 后记
 ===============
 
-![Who Killed MySQL? - Epilogue](https://github.com/LCTT/comic/raw/master/turnoff.us/who-killed-mysql-epilogue/who-killed-mysql-epilogue.png)
+![Who Killed MySQL? - Epilogue](./who-killed-mysql-epilogue.png)
 
 - 今天，一个进程在这里被杀死了。
 - 死者是 MySQL，死因是 SIGKILL。

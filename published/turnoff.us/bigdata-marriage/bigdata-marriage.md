@@ -1,12 +1,12 @@
 极客漫画：大数据婚姻
 ===
 
-![Big Data Marriage](https://github.com/LCTT/comic/raw/master/turnoff.us/bigdata-marriage/bigdata2.png)
+![Big Data Marriage](./bigdata2.png)
 
 - 你为“大数据”准备好了么？
 - 婚后！
 
-![Big Data Marriage](https://github.com/LCTT/comic/raw/master/turnoff.us/bigdata-marriage/post-script-1.png)
+![Big Data Marriage](./post-script-1.png)
 
 - 附言
 - 2016 年 1 月 21 日

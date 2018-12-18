@@ -1,7 +1,7 @@
 极客漫画：让你变成“机电工程师”的 Arduino 项目
 ===
 
-![Arduino Project](https://github.com/LCTT/comic/raw/master/turnoff.us/arduino-project/arduino-new.png)
+![Arduino Project](./arduino-project.png)
 
 - 刚刚完成我的第一个 Arduino 项目：一个闪烁的 LED
 - 下一步：更新我的 LinkedIn 详情

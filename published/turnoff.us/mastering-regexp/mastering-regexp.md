@@ -1,7 +1,7 @@
 极客漫画：精通正则表达式
 =====
 
-![Mastering RegExp](https://github.com/LCTT/comic/raw/master/turnoff.us/mastering-regexp/mastering-regexp.png)
+![Mastering RegExp](./mastering-regexp.png)
 
 - 够了！我要是学不会正则表达式，就绝不离开！
 

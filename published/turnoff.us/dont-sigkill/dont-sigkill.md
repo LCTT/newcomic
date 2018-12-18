@@ -1,7 +1,7 @@
 极客漫画：不要使用 SIGKILL 的原因（看哭了）
 ===============
 
-![The Real Reason to Not Use SIGKILL](https://github.com/LCTT/comic/raw/master/turnoff.us/dont-sigkill/dont-sigkill.png)
+![The Real Reason to Not Use SIGKILL](./dont-sigkill.png)
 
 - 这位是鲍勃，他是一个 Linux 进程。
 - 嗨！大家好。

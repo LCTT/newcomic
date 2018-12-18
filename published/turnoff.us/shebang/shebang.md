@@ -1,7 +1,7 @@
 #!S
 ===============
 
-![#!S](http://turnoff.us/image/en/shebang.png)
+![#!S](./shebang.png)
 
 - I BANG You BANG HE BANGS #!S
 

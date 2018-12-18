@@ -1,7 +1,7 @@
 极客漫画：敏捷餐馆
 ===============
 
-![The Agile Restaurant](https://github.com/LCTT/comic/raw/master/turnoff.us/agile-restaurant/agile-restaurant.png)
+![The Agile Restaurant](./agile-restaurant.png)
 
 - 先生，您的米饭。
 - 谢谢。

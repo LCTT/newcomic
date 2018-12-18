@@ -1,7 +1,7 @@
 极客漫画：让高等生命都迷茫的 Erlang
 ===
 
-![Advanced Species](https://github.com/LCTT/comic/raw/master/turnoff.us/advanced-species/erlang.png)
+![Advanced Species](./advanced-species.png)
 
 - 发现了什么？
 - 这是一本以前在这里生活的物种的著作

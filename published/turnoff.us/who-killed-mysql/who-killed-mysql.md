@@ -1,7 +1,7 @@
 极客漫画：谁杀死了 MySQL
 ===============
 
-![who-killed-mysql](https://github.com/LCTT/comic/raw/master/turnoff.us/who-killed-mysql/who-killed-mysql.png)
+![who-killed-mysql](./who-killed-mysql.png)
 
 - 此刻，在内核中……
 - 怎么了，Apache，有访问请求了？

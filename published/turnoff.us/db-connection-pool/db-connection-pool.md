@@ -1,7 +1,7 @@
 极客漫画：数据库链接池中的生生死死
 ===============
 
-![Life (and Death) in the DB Connection Pool](https://github.com/LCTT/comic/raw/master/turnoff.us/db-connection-pool/db-connection-pool.png)
+![Life (and Death) in the DB Connection Pool](./db-connection-pool.png)
 
 - 数据库连接池用于增强在数据库上执行操作的性能。但是，在这种“池子”里面生存可是非常困难的。比如这位 Blick ，它是一个连接对象……
 - Hi！

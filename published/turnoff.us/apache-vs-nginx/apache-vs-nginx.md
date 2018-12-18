@@ -3,7 +3,7 @@
 
 嗨，大家好，今天我们来聊聊 80 端口之战。著名的技术漫画站 turnoff.us 有这样的一副漫画，生动的描绘了固守 80 端口的 Apache 和新生代的 Nginx 之间的战争。你知道，80 端口是 Web 端口，就是这个端口构成了我们现在大部分的互联网。
 
-![sudo board game](https://github.com/LCTT/comic/raw/master/turnoff.us/apache-vs-nginx/apache-vs-nginx.png)
+![sudo board game](./apache-vs-nginx.png)
 
 作为新生代的 Nginx 对已经 22 岁之老的 Apache 说，“一边去，老头，这 80 口不用你看着了，你得给新人腾腾地方了！”
 

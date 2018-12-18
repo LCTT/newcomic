@@ -3,7 +3,7 @@
 
 著名的 turnoff.us 有很多有趣的漫画，比如这一副《二叉树》。
 
-![binary tree](https://github.com/LCTT/comic/raw/master/turnoff.us/binary-tree/binary-tree.png)
+![binary tree](./binary-tree.png)
 
 在孩子的眼中，世界是另外一种样子。可能在我们大人看来，司空见惯的一些事物，已经掩盖了我们的想象力，但是童稚未去的孩子们往往能观察到我们所忽视的一面，所以，多陪陪孩子吧（首先，你得有个……）。
 
