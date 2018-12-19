@@ -1,7 +1,7 @@
 极客漫画：呃，70 后
 ===============
 
-![Oh, the 70's](http://turnoff.us/image/en/old-times.png)
+![Oh, the 70's](./oh-the-70s.png)
 
 - 该死，又一种编程语言！？
 - 距上一个才过去十年。
@@ -17,8 +17,7 @@ via: http://turnoff.us/geek/oh-the-70s/
 
 作者：[Daniel Stori][a]
 译者 & 校对：[wxy](https://github.com/wxy)
-校对：[校对者ID](https://github.com/校对者ID)
-合成：[合成者ID](https://github.com/合成者ID)
+校对 & 合成：[wxy](https://github.com/wxy)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
