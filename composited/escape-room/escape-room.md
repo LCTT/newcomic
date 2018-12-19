@@ -1,7 +1,7 @@
 极客漫画：密室逃脱
 ===============
 
-![Escape Room](http://turnoff.us/image/en/escape-room.png)
+![Escape Room](./escape-room.png)
 
 - 密室逃脱
 
@@ -16,8 +16,7 @@ via: http://turnoff.us/geek/escape-room/
 
 作者：[Daniel Stori][a]
 译者 & 点评：[wxy](https://github.com/wxy)
-校对：[校对者ID](https://github.com/校对者ID)
-合成：[合成者ID](https://github.com/合成者ID)
+校对 & 合成：[wxy](https://github.com/wxy)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
