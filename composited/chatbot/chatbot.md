@@ -1,10 +1,10 @@
 极客漫画：聊天机器人
 ===============
 
-![Chatbot](http://turnoff.us/image/en/chatbot.png)
+![Chatbot](./chatbot.png)
 
 - “……这一大段脚本……”
-- 有客户在等你的服务，兄嘚！
+- 有客户在等你的服务，哥们！
 - 别紧张，那就是个傻机器人。
 
 现在聊天机器人技术使用的越来越多了，无论是 Slack 机器人还是 QQ 机器人，甚至还有图灵式的，比如 Siri、微软小冰。很多时候，群里面突然跑来一个机器人，那笨拙而无聊的话术，让人看了令人发噱。有时候，昨天我朋友表示，他的机器人被另外一个机器人搭讪了，然后由于本方的机器人太笨，对方色诱失败，哈哈。
@@ -18,8 +18,7 @@ via: http://turnoff.us/geek/chatbot/
 
 作者：[Daniel Stori][a]
 译者&点评：[wxy](https://github.com/wxy)
-校对：[校对者ID](https://github.com/校对者ID)
-合成：[合成者ID](https://github.com/合成者ID)
+校对&合成：[wxy](https://github.com/wxy)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
