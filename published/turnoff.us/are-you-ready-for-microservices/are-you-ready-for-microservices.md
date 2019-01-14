@@ -1,7 +1,7 @@
 极客漫画：你准备好微服务了吗？
 ===============
 
-![Are You Ready For Microservices?](http://turnoff.us/image/en/microservices-and-monolithic.png)
+![Are You Ready For Microservices?](./are-you-ready-for-microservices.png)
 
 - 爸——爸——，我的微服务弄丢了，少了它就玩不成了！
 - 我告诉过你他还太小，我们应该给他买个整体的玩具。
@@ -17,9 +17,8 @@
 via: http://turnoff.us/geek/are-you-ready-for-microservices/
 
 作者：[Daniel Stori][a]
-译者&校对：[wxy](https://github.com/wxy)
-合成：[合成者ID](https://github.com/合成者ID)
-点评：[点评ID](https://github.com/点评者ID)
+译者&点评&校对：[wxy](https://github.com/wxy)
+合成：[wxy](https://github.com/wxy)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
