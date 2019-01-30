@@ -1,7 +1,7 @@
 极客漫画：僵尸进程
 ===============
 
-![Zombie Processes](http://turnoff.us/image/en/zombies.png)
+![Zombie Processes](./zombie-processes.png)
 
 - 在一个普通的 Linux 内核中发生的一幕……
 - 它们怎么会变成僵尸进程的？
@@ -13,9 +13,8 @@
 via: http://turnoff.us/geek/zombie-processes/
 
 作者：[Daniel Stori][a]
-译者 & 校对：[wxy](https://github.com/wxy)
-合成：[合成者ID](https://github.com/合成者ID)
-点评：[点评ID](https://github.com/点评者ID)
+译者 & 点评：[wxy](https://github.com/wxy)
+校对 & 合成 ：[wxy](https://github.com/wxy)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
