@@ -8,14 +8,13 @@
 - 然后呢？
 - 现在他们说我是那“丢失的 0.05%”
 
-避免被某一家（云）服务商锁定，这样你就再也离不开它了——甚至你就可能是那偏偏遇到问题的 0.05% ！当发生这种情况时，你也需要找工作了。
+避免被某一家（云）服务商锁定，这样你就再也离不开它了——当你就是那偏偏遇到问题的 0.05% 时，你也需要找工作了。
 
 via: http://turnoff.us/geek/cloud-lock-in/
 
 作者：[Daniel Stori][a]
 译者 & 点评：[wxy](https://github.com/wxy)
-校对：[校对者ID](https://github.com/校对者ID)
-合成：[合成者ID](https://github.com/合成者ID)
+校对 & 合成：[wxy](https://github.com/wxy)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
